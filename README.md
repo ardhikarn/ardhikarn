@@ -31,3 +31,6 @@ Currently focused on learning in JavaScript, but exposed in all aspects of web d
 * [BOOTSTRAP](https://getbootstrap.com/) - the amazing tool for building layouts
 * [NODE.JS & EXPRESS.JS](https://nodejs.org/en/) - the amazing tool for backend building
 * [VUE.JS](https://vuejs.org/) - the amazing tool for frontend building
+
+![Ardhika Ryzha Github Stats](https://github-readme-stats.vercel.app/api?username=ardhikarn&count_private=true&show_icons=true&include_all_commits=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikarn)](https://github.com/ardhikarn/github-readme-stats)
