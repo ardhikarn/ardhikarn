@@ -14,9 +14,9 @@
 ![Hero Image](hero-image.gif)
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ardhikarn/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://denycode.xyz)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://rythzid.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ardhikarn)
-<a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@deni-irawan40563-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@ardhikarn?style=flat-square&logo=GitHub&logoColor=white"></a>
 <br>
 Currently focused on learning in JavaScript, but exposed in all aspects of web development including front and back end, version management with git. I do programming fulltime, I always keep to learn deep into the fundamentals of the languages and moving forward into web development with the latest technologies required to work with it.
 ### my favorite tools
