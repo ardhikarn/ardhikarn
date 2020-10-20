@@ -1,6 +1,8 @@
 <a href="https://github.com/ardhikarn/ardhikarn" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ardhikarn/ardhikarn?label=profile%20updated&style=flat-square"></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ardhikarn.ardhikarn)
+
 # HELLO I AM ARDHIKA RYZHA NURMAWAN  <a href="https://github.com/ardhikarn?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+
 ## I AM FULLSTACK WEB DEVELOPER
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -16,7 +18,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ardhikarn/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://rythzid.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ardhikarn)
-<a href="https://github.com/ardhikarn" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@deni-irawan40563-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/ardhikarn" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@ardhikarn-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 <br>
 
