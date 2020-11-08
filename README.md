@@ -17,7 +17,7 @@
 <br>
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ardhikarn/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://rythzid.com)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://rythzid.xyz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ardhikarn)
 <a href="https://github.com/ardhikarn" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
@@ -30,8 +30,9 @@ Currently focused on learning in JavaScript, but exposed in all aspects of web d
 * [HTML & CSS](https://html.com/) - the fundamental tool for building the website
 * [JavaScript](https://www.javascript.com/) - the magic tool for the dynamic web
 * [BOOTSTRAP](https://getbootstrap.com/) - the amazing tool for building layouts
+* [VUE.JS](https://vuejs.org/) & [REACT.JS](https://reactjs.org/) - the amazing tool for frontend building
 * [NODE.JS & EXPRESS.JS](https://nodejs.org/en/) - the amazing tool for backend building
-* [VUE.JS](https://vuejs.org/) - the amazing tool for frontend building
+* [MYSQL](https://www.mysql.com/) & [MONGODB](https://www.mongodb.com/) - the amazing tool for frontend building
 
 ![Ardhika Ryzha Github Stats](https://github-readme-stats.vercel.app/api?username=ardhikarn&count_private=true&show_icons=true&theme=vue&include_all_commits=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikarn)](https://github.com/ardhikarn/github-readme-stats)
