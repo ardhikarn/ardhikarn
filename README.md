@@ -28,12 +28,12 @@ Currently focused on learning in JavaScript, but exposed in all aspects of web d
 
 ### my favorite tools
 
-* [HTML & CSS](https://html.com/) - the fundamental tool for building the website
+* [HTML & CSS](https://html.com/) - the fundamental tools for building the website
 * [JavaScript](https://www.javascript.com/) - the magic tool for the dynamic web
 * [BOOTSTRAP](https://getbootstrap.com/) - the amazing tool for building layouts
-* [VUE.JS](https://vuejs.org/) & [REACT.JS](https://reactjs.org/) - the amazing tool for frontend building
-* [NODE.JS & EXPRESS.JS](https://nodejs.org/en/) - the amazing tool for backend building
-* [MYSQL](https://www.mysql.com/) & [MONGODB](https://www.mongodb.com/) - the amazing tool for frontend building
+* [VUE.JS](https://vuejs.org/) & [REACT.JS](https://reactjs.org/) - the amazing tools for frontend building
+* [NODE.JS & EXPRESS.JS](https://nodejs.org/en/) - the amazing tools for backend building
+* [MYSQL](https://www.mysql.com/) & [MONGODB](https://www.mongodb.com/) - the amazing tools for database building
 
 ![Ardhika Ryzha Github Stats](https://github-readme-stats.vercel.app/api?username=ardhikarn&count_private=true&show_icons=true&theme=vue&include_all_commits=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikarn)](https://github.com/ardhikarn/github-readme-stats)
