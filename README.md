@@ -5,8 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ardhikarn/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rythzid.xyz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ardhikarn)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/ardhika-dev)
-<a href="https://github.com/ardhikarn" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/ardhikarn-dev)
+[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ardhikarn)
 
 <h3>things i code with</h3>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html" width="30px"></span>&nbsp;
