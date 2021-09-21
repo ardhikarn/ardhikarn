@@ -23,5 +23,7 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30px"></span>
 
 <br>
+<br>
+<br>
 
 ![Ardhika Ryzha Github Stats](https://github-readme-stats.vercel.app/api?username=ardhikarn&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
