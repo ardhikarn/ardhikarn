@@ -1,5 +1,5 @@
 <a href="https://github.com/ardhikarn/ardhikarn" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ardhikarn/ardhikarn?label=profile%20updated&style=flat-square"></a>
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ardhikarn.ardhikarn)
 
 <h1>Hello World! :wave:</h1>
 
