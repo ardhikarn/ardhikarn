@@ -22,4 +22,6 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30px"></span>
 
-![Ardhika Ryzha Github Stats](https://github-readme-stats.vercel.app/api?username=ardhikarn&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
+<br>
+
+![Ardhika Ryzha Github Stats](https://github-readme-stats.vercel.app/api?username=ardhikarn&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
