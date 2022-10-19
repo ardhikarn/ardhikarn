@@ -29,8 +29,8 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="35px"></span>&nbsp;
 
 <h3>I'm currently learning</h3>
-* Go-Lang
-* Micro-Frontends
+<h1>* Go-Lang</h1>
+<h1>* Go-Lang</h1>
 
 <br>
 <br>
