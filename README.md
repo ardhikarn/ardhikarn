@@ -21,21 +21,17 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="35px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="35px"></span>&nbsp;
 
-
 <h3>I'm currently learning</h3>
 <ul>
   <li>Go-Lang</li>
   <li>Micro-Frontends</li>
 </ul>
 
+<div><img
+      src="https://github-readme-stats.vercel.app/api?username=ardhikarn&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" /></div>
+<div> <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikarn&count_private=true&show_icons=true&layout=compact&theme=github_dark" /></div>
 
-<br>
-<br>
-<br>
+ 
 
-![Ardhika Ryzha Github Stats](https://github-readme-stats.vercel.app/api?username=ardhikarn&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
 
-<br>
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikarn&count_private=true&show_icons=true&layout=compact&theme=github_dark" />
