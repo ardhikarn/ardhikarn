@@ -27,10 +27,8 @@
   <li>Micro-Frontends</li>
 </ul>
 
-<div><img
-      src="https://github-readme-stats.vercel.app/api?username=ardhikarn&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" /></div>
-<div> <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikarn&count_private=true&show_icons=true&layout=compact&theme=github_dark" /></div>
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikarn&layout=compact&theme=github_dark" />
 
  
 
