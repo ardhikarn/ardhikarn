@@ -23,8 +23,10 @@
 
 <h3>I'm currently learning</h3>
 <ul>
-  <li>Go-Lang</li>
   <li>Micro-Frontends</li>
+  <li>Go-Lang</li>
+  <li>Docker</li>
+  <li>Operations</li>
 </ul>
 
 <img 
