@@ -2,10 +2,13 @@
 
 <h1>Hello World! :wave:</h1>
 
+[![Gitlab Badge](https://img.shields.io/badge/Gitlab-%23181717.svg?style=flat-square&logo=Gitlab)](https://gitlab.com/ardhikarn)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ardhikarn/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rythzid.xyz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ardhikarn)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ardhikarn-dev)
+
+
 
 <h3>I'm currently work as Frontend and freelancer using</h3>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html" width="35px"></span>&nbsp;
