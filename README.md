@@ -23,6 +23,8 @@
 
 <h3>I'm currently learning</h3>
 <ul>
+  <li>Flutter</li>
+  <li>React Native</li>
   <li>Micro-Frontends</li>
   <li>Go-Lang</li>
   <li>Docker</li>
