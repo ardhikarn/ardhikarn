@@ -1,4 +1,4 @@
-<img width="631" height="198" alt="image" src="https://github.com/user-attachments/assets/aa233fe5-cac0-4e1d-a223-e2c2de27f4e4" /><h1 align="left" id="macropower-title"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hello there! I'm Ryzha</h1>
+<h1 align="left" id="macropower-title"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hello there! I'm Ryzha</h1>
 <h3 align="left">I do Software Engineering things</h3>
 
 <a href="https://github.com/ardhikarn/ardhikarn" target="_blank">
