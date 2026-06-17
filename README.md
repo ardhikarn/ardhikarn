@@ -53,4 +53,5 @@
 [Personal Website]: https://rizh.vercel.app "Ryzha's Personal Website"
 [Email]: mailto:ardhikarn@gmail.com "Email"
 [linkedin]: https://www.linkedin.com/in/ardhikarn "Ryzha's LinkedIn"
-[Surabaya Mengaji]: https://github.com/surabayamengaji
+[Surabaya Mengaji]: https://github.com/surabayamengaji "Foundation's Github"
+
