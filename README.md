@@ -5,11 +5,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhikarn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ryzhastats" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[PT. Telkom Indonesia]**
-- :speech_balloon: &nbsp;I like to talk about **Software Development**, from design to deployment
-- :book: &nbsp;Learn more about my projects on my **[Personal Website]**
-- :mailbox: &nbsp;Ask me anything on my **[Email]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🏢 Frontend Engineer at **PT. Telkom Indonesia**
+- 💡 Passionate about building scalable software solutions from concept to production
+- 🤝 Core contributor at **Surabaya Mengaji**, leading and developing digital platforms that support foundation operations, donor management, and community services
+- 🚀 Actively contributing to projects within **github.com/surabayamengaji**
+- 🌐 Explore my work on **[Personal Website]**
+- 📫 Contact me via **[Email]**
+- 💼 Let's connect on **[LinkedIn]**
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
